@@ -1,6 +1,2 @@
 import streamlit as st
-
-
-
-
-st.header('Hola Laura')
+st.title('Hola Laura')
